@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.rear{
+  background: linear-gradient(#005986,#005177);
+  width: 100%;
+}
+p{
+  font-size: 20px;
+  text-align: center;
+}
+h1{
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+}
+#box1{
+  background: linear-gradient(#055D89,#D8EEEE);
+  height: 1000px;
+  width: 100%;
+}
